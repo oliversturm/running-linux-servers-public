@@ -1,32 +1,3 @@
-title: Running Linux Servers
-subtitle: Where would Azure be without them?
-class: animation-fade
-layout: true
-
-<!-- This slide will serve as the base layout for all your slides -->
-
-.bottom-bar[
-{{title}}
-]
-
----
-
-class: impact
-
-# {{title}}
-
-## {{subtitle}}
-
-.title-oli[
-Oliver Sturm &bull; @olivers &bull; oliver@oliversturm.com
-]
-
-.title-logo[
-<img src="template/devexpress.png" id="devexpress" alt="DevExpress">
-]
-
----
-
 ## Oliver Sturm
 
 - Training Director at DevExpress
@@ -37,10 +8,6 @@ Oliver Sturm &bull; @olivers &bull; oliver@oliversturm.com
 ---
 
 ## Agenda
-
-.svg-right[
-![Tux](template/Tux.svg)
-]
 
 - Connecting To Servers
 - Dealing With Log Files
@@ -115,17 +82,3 @@ class: impact
   - https://github.com/oliversturm/running-linux-servers-public
 
 ---
-
-class: impact
-
-# Thank You
-
-Please feel free to contact me about the content anytime.
-
-.title-oli[
-Oliver Sturm &bull; @olivers &bull; oliver@oliversturm.com
-]
-
-.title-logo[
-<img src="template/devexpress.png" id="devexpress" alt="DevExpress">
-]
