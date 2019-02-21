@@ -19,6 +19,5 @@ while (<>) {
 			print "$_ (" . ($services{$_} || "unknown") . ")\n";
 		}
 	}
-
 }
 
